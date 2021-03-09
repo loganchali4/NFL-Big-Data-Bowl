@@ -1,4 +1,4 @@
-# NFL-Big-Data-Bowl
+# NFL Big Data Bowl: Predicting NFL Rushing Yards
 By: Logan Chalifour, Nathan Brouwers & Riley Demanche
 
 There are many elements that determine the success of a run play in a professional leaguethat represents the world’s biggest, fastest, and strongest athletes. Many of these factors areoutside of the control of the ball-carrier themselves, relying rather on coaching decisions,schemes, opposing defenses, and random variability through blown assignments.
