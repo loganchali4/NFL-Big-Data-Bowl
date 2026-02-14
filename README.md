@@ -1,4 +1,4 @@
-# NFL Big Data Bowl
+# NFL-Big-Data-Bowl
 Dec 2019 | Predicting NFL Rushing Yards
 
 There are many elements that determine the success of a run play in a professional league that represents the world’s biggest, fastest, and strongest athletes. Many of these factors are outside of the ball-carrier's control, relying rather on coaching decisions, schemes, opposing defenses, and random variability through blown assignments.
